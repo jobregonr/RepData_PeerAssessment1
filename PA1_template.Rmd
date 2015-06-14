@@ -106,7 +106,7 @@ paste("Total Steps per Day Median ==> ",
 #### ==> They are almost the same. There is only a difference of 1 for the median.
 
 ### ... What is the impact of imputing missing data on the estimates of the total daily number of steps?
-#### ==> Frequency for the days in the middle increases
+#### ==> Frequency for the days in the middle increases 
 
 
 ## Are there differences in activity patterns between weekdays and weekends?
